@@ -115,7 +115,7 @@ void pcSerialComCodeCompleteWrite( bool state )
 }
 
 //=====[Implementations of private functions]==================================
-
+//bloqueante poner una FMS?
 static void pcSerialComStringRead( char* str, int strLength )
 {
     int strIndex;
